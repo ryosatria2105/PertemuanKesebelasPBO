@@ -5,7 +5,7 @@
 ---
 
 ## 📄 Deskripsi  
-Proyek ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Berorientasi Objek (PBO)** dengan studi kasus **CRUD Data Member Ryo’s Gym** yang menggunakan **Java Persistence API (JPA)** untuk menggantikan koneksi JDBC manual, sehingga pengelolaan data lebih efisien, terstruktur, dan berorientasi objek.  
+Proyek ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Berorientasi Objek (PBO)** dengan studi kasus **CRUD Data Member Ryo’s Gym** yang menggunakan **Java Persistence API (JPA)** untuk menggantikan koneksi JDBC manual, sehingga pengelolaan data lebih  terstruktur dan berorientasi objek.  
 
 ---
 
