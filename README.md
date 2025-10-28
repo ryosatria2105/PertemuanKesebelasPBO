@@ -9,6 +9,14 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Berorientasi Ob
 
 ---
 
+## ⚙️ Fitur Utama  
+- 🔹 **Insert, Update, Delete, Upload** berbasis JPA  
+- 📂 **Upload CSV** otomatis via `EntityManager`  
+- 🧾 **Print Laporan** dengan JasperReport  
+- 🧠 Tanpa query SQL manual (semua via Persistence)  
+
+---
+
 ## ⚙️ Proses Implementasi  
 
 ### 1️⃣ Membuat Persistence Unit  
@@ -59,14 +67,6 @@ Kelas ini berfungsi untuk menginisialisasi dan menyediakan `EntityManager` bagi 
 
 ---
 
-## ⚙️ Fitur Utama  
-- 🔹 **Insert, Update, Delete, Upload** berbasis JPA  
-- 📂 **Upload CSV** otomatis via `EntityManager`  
-- 🧾 **Print Laporan** dengan JasperReport  
-- 🧠 Tanpa query SQL manual (semua via Persistence)  
-
----
-
 ## 🧪 Uji Coba  
 
 ### 1️⃣ Menjalankan Aplikasi  
@@ -79,7 +79,7 @@ Jalankan file `MemberFrame.java`.
 ### 2️⃣ Uji Coba Tombol CRUD dan Upload  
 
 #### ✅ Insert Berhasil  
-<img width="740" height="400" alt="image" src="https://github.com/user-attachments/assets/923754ee-f0f0-4bf7-84df-28ac2642e0ae" />
+<img width="740" height="400" alt="image" src="https://github.com/user-attachments/assets/923754ee-f0f0-4bf7-84df-28ac2642e0ae" />  
 
 #### 🔄 Update Berhasil  
 <img width="740" height="400" alt="image" src="https://github.com/user-attachments/assets/8ef6d85b-b45d-45b1-a408-60406a7dd5cf" />  
